@@ -1,3 +1,3 @@
 # Amazon Sales Analysis with SQL
 
-** This is a test project **
+**This is a test project**
