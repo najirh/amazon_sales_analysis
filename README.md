@@ -1,1 +1,3 @@
-# amazon_sales_analysis
+# Amazon Sales Analysis with SQL
+
+** This is a test project **
